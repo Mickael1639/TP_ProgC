@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-printf("Bonjour ESEIEE-IT !");
+printf("Bonjours tout le monde !");
 }
 
 
